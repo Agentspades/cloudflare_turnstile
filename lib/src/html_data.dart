@@ -59,11 +59,11 @@ String _source = """
 <html lang="en">
 
 <head>
-   <meta charset="UTF-8">
-   <link rel="icon" href="data:,">
-   <meta name="viewport"
+  <meta charset="UTF-8">
+  <link rel="icon" href="data:,">
+  <meta name="viewport"
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-   <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit"></script>
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 
    
 </head>
